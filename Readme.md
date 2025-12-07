@@ -17,7 +17,7 @@ The company collects extensive data across **sales, customers, product ranges, m
 ## 🔗 Project Resources
 
 - **Data Quality Check**: The SQL queries used to inspect and clean the data for this analysis can be found here [[link](https://docs.google.com/spreadsheets/d/1TnQysry7-BT1Gp438DsQV8-yNDu4toQbPGkzGbxSLuE/edit?usp=sharing)].
-- **SQL Queries**: Targeted SQL queries regarding various business questions can be found here [[link](https://www.notion.so/The-Look-E-Commerce-Analysis-Process-2bfa50407d03808e9936fa2df736b00d?pvs=21)].
+- **SQL Queries**: Targeted SQL queries regarding various business questions can be found here [[link](https://sky-wallet-913.notion.site/The-Look-E-Commerce-Analysis-Process-2bfa50407d03808e9936fa2df736b00d?source=copy_link)].
 - **Looker Studio Report**: An interactive Looker Studio report to explore sales trends can be found here [[link](https://lookerstudio.google.com/reporting/650d7b66-7918-4d10-b463-5d4222c2aab1)].
 - **Stakeholder Presentation**: Prepared a stakeholder presentation to highlight key insights and recommendations here [[link](https://docs.google.com/presentation/d/1zHow1BogWJdY0-oY386aHfhq5j_6OE0UYpBaHYTPwRw/edit?usp=sharing)]
 
