@@ -23,7 +23,7 @@ The company collects extensive data across **sales, customers, product ranges, m
 
 ## 🗂️ Data Structure & Initial Checks
 
-**The Look** database structure as seen below consists of four tables: **`orders`**, **`order_items`**, **`products`**, users, with an approximate total row count of 182K records. A description of each table is as follows:
+**The Look** database structure as seen below consists of four tables: **`orders`**, **`order_items`**, **`products`**, **`users`**, with an approximate total row count of 182K records. A description of each table is as follows:
 
 <img width="1010" height="613" alt="The Look ERD" src="https://github.com/user-attachments/assets/807203f2-61dd-4b18-bfcb-145f327730ac" />
 
