@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-**The Look**, an established e-commerce clothing retailer in the online fashion industry, has been operating for several years and maintains a rich dataset covering **2019 to 2025**. The business uses a traditional direct-to-consumer model, selling apparel exclusively through its digital storefront.
+**The Look**, a fictitious e-commerce clothing retailer in the online fashion industry, has been operating for several years and maintains a rich dataset covering **2019 to 2025**. The business uses a traditional direct-to-consumer model, selling apparel exclusively through its digital storefront.
 
 The company collects extensive data across **sales, customers, product ranges, marketing activity, inventory, distribution, and site performance**, much of this information has been historically underutilized. This project aims to analyse and synthesise these datasets to uncover actionable insights that can help drive **The Look’s overall business growth and performance**.
 
